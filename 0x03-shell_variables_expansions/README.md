@@ -1,2 +1,35 @@
 THis read me is for 0x03-shell_variables_expansions
 0 ALIAS
+0-alias - Create a script that creates an alias.
+
+-hello_you - Create a script that prints hello user, where user is the current Linux user.
+
+path - Add /action to the PATH. 
+
+paths - Create a script that counts the number of directories in the PATH.
+
+global_variables - Create a script that lists environment variables.
+
+local_variables - 
+
+create_local_variable - Create a script that creates a new local variable.
+
+create_global_variable - Create a script that creates a new global variable.
+
+true_knowledge - Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+divide_and_rule - Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+
+love_exponent_breath - 
+
+binary_to_decimal - Write a script that converts a number from base 2 to base 10. Th
+
+-combinations - Create a script that prints all possible combinations of two letters, except oo.  
+
+-print_float - Write a script that prints a number with two decimal places. 
+
+-decimal_to_hexadecimal - Write a script that converts a number from base 10 to base 16.
+
+rot13 - Write a script that encodes and decodes text using the rot13 encryption.
+
+odd - Write a script that prints every other line from the input, starting with the first line.
